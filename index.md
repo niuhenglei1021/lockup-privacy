@@ -33,7 +33,7 @@
 
 ## 联系我们
 
-隐私问题请发邮件至：1175903571@qq.com
+隐私问题请发邮件至：[1175903571@qq.com](mailto:1175903571@qq.com)
 
 ---
 
@@ -72,4 +72,4 @@ If this notice changes in a material way, we will update the effective date on t
 
 ## Contact
 
-Privacy questions: 1175903571@qq.com
+Privacy questions: [1175903571@qq.com](mailto:1175903571@qq.com)
